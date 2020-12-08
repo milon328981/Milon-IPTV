@@ -217,6 +217,8 @@ https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/43.ts
 #EXTINF:-1,HBO
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/44.ts
+#EXTINF:-1,HBO 2
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/1.m3u8
 #EXTINF:-1,Action HD
 https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index_2.m3u8?@amarnettv.live
 #EXTINF:-1,Disney XD
