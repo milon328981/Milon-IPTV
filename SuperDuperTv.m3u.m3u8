@@ -121,8 +121,6 @@ http://z5amshls.akamaized.net/zbanglacnm/tracks-v1a1/index.m3u8
 http://103.205.133.48/hls/chsj.m3u8
 #EXTINF:-1, Star Jalsha HD
 http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/27.m3u8
-#EXTINF:-1,Jalsha Movies HD
-http://163.172.29.246:8081/globalbd/starjalshamovies/chunks.m3u8
 #EXTINF:-1,Jalsha Movies SD
 https://ccntv.anytv.live/jalshamovise/index.m3u8
 #EXTINF:-1,Colors Bangla SD
