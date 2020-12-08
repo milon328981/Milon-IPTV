@@ -257,3 +257,5 @@ http://z5amshls.akamaized.net/andpicssd/playlist.m3u8
 http://tv.dflix.live:8082/73/mono.m3u8?token=6fa7156b53cf7b00ca9765e6372acfb6e5a32419-96060e2256ba8da5969c0be187f04159-1607451674-1607440874&remote=103.76.242.238
 #EXTINF:-1,zoom
 http://tv.dflix.live:8082/60/mono.m3u8?token=9c977468d72cc451edc54c3b16fe6e7e8e3adee6-005257ec380be279e01a1d0c4ed91526-1607451778-1607440978&remote=103.76.242.238
+#EXTINF:-1,B4music
+http://103.199.161.254/Content/b4umusic/Live/Channel(B4Umusic)/Stream(01)/index.m3u8
