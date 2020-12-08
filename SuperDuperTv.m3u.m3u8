@@ -241,6 +241,8 @@ http://103.205.133.48/hls/9xm.m3u8
 http://103.205.133.20/hls/9xm.m3u8
 #EXTINF:-1,9xm
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8
+#EXTINF:-1,Masti
+http://10.16.100.207:8082/sports/mtuness.m3u8
 #EXTINF:-1,9X ZALWAA
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/76.ts
 #EXTINF:-1,Mtv Yo
